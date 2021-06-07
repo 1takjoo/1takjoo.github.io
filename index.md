@@ -1,1 +1,1 @@
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Joo, Won-tak, Chan Joo Lee, Jaewon Oh, In-cheol Kim, Sang-hak Lee, Seok-min Kang, Hyeon Chang Kim, Sungha Park, and Yoosik Youm. “The Association between Social Network Betweenness and Coronary Calcification: A Baseline Study on Patients with a High Risk of Cardiovascular Disease.” Journal of Atherosclerosis and Thrombosis 25(2):131-141. (link)
