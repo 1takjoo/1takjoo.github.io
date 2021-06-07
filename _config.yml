@@ -1,20 +1,4 @@
 title: Won-tak Joo
 logo: /assets/img/wontak.jpg
-description: >
-  <b>PhD Candidate</b>
-  <br>
-  <b>Department of Sociology</b>
-  <br>
-  <b>University of Wisconsin–Madison</b>
-  <br><br>
-  <a href = "mailto: wontak.joo@wisc.edu">E-mail</a> | <a href = "https://twitter.com/1takjoo">Twitter</a>
-  <br>
-  <a href = "https://github.com/1takjoo">Github</a>
-  <br>
-  <a href = "">Google Scholar</a>
-  <br><br>
-  <small>© 2021 Won-tak Joo
-  <br>
-  <small>Theme from <a href="https://github.com/orderedlist">orderedlist</a>; Template from <a href="https://github.com/evanca/quick-portfolio">evanca</a></small>
-  
+description: <b>PhD Candidate</b><br><b>Department of Sociology</b><br><b>University of Wisconsin–Madison</b><br><small>© 2021 Won-tak Joo  
 theme: jekyll-theme-minimal
