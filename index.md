@@ -1,7 +1,9 @@
-## Biography
-### I am Won-tak Joo, a PhD candidate in Sociology at the University of Wisconsin–Madison.
-### My research interests are in the areas of aging, health, family, and social networks. Specifically, I study how social relationships evolve in the context of aging, and how these patterns matter for individual and social outcomes, using social network methods and applied econometrics.
-### My current projects explore (1) the changes in social networks and intergenerational relationships during later life transitions (e.g., disease diagnosis, retirement), and (2) the individual and fmaily consequences of epidemics using large genealogy datasets.
+## Biography [(CV)](/assets/pdf/CV_June_2021.pdf)
+I am Won-tak Joo, a PhD candidate in Sociology at the University of Wisconsin–Madison.
+
+My research interests are in the areas of aging, health, family, and social networks. Specifically, I study how social relationships evolve in the context of aging, and how these patterns matter for individual and social outcomes, using social network methods and applied econometrics.
+
+My current projects explore (1) the changes in social networks and intergenerational relationships during later life transitions (e.g., disease diagnosis, retirement), and (2) the individual and fmaily consequences of epidemics using large genealogy datasets.
 
 <br>
 
