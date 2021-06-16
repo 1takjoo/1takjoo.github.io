@@ -16,4 +16,6 @@ description: >
   <small>© 2021 Won-tak Joo</small>
   <br>
   <small>Theme by <a href="https://github.com/orderedlist">orderedlist</a></small>
+show_downloads: "false"
+google_analytics: "false"
 theme: jekyll-theme-minimal
