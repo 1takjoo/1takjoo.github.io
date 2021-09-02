@@ -1,4 +1,4 @@
-## Educational Expansion and Social Connectedness in Later Life
+### Educational Expansion and Social Connectedness in Later Life
 **(February 2021)**
 <br>
 <br>
