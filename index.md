@@ -1,7 +1,7 @@
 ## Biography [(CV)](/assets/pdf/CV_June_2021.pdf)
 I am Won-tak Joo, a PhD candidate in Sociology at the University of Wisconsin–Madison.
 
-My research interests are in the areas of aging, health, family, and social networks. Specifically, I study how social relationships evolve in the context of aging, and how these patterns matter for individual and social outcomes, using social network methods and applied econometrics.
+My research interests are in the areas of social demography (focusing on aging, health, and family), social networks, and computational sociology. Specifically, I study how social and family relationships change across the life course, and how these patterns contribute to social and health inequalities, using a range of quantitative approaches including social network methods, applied econometrics, and demographic techniques.
 
 My current projects explore (1) the socioeconomic differences in social network changes during later life transitions (e.g., disease diagnosis, retirement), and (2) the individual and family consequences of epidemics using large genealogy datasets.
 
@@ -31,16 +31,16 @@ My current projects explore (1) the socioeconomic differences in social network 
 <br>
 
 ## Working Papers
-* Engelman, Michal, **Won-tak Joo**, Jason Fletcher and Barry Burden. “Health, Wealth, and Voting Trajectories in Later Life.” (_Revise and Resubmit_ at _The Journals of Gerontology: Series B_)
+* Engelman, Michal, **Won-tak Joo**, Jason Fletcher and Barry Burden. “Health, Wealth, and Voting Trajectories in Later Life.” (_Revise and Resubmit_ at _The Journals of Gerontology: Series B_) [(abstract)]
 
-* **Joo, Won-tak**. “The Educational Gradient in Social Network Activation: The Case of Disease Diagnosis among Older Adults.” (_Under Review_)
+* **Joo, Won-tak**. “The Educational Gradient in Social Network Activation: The Case of Disease Diagnosis among Older Adults.” (_Under Review_) [(abstract)]
 
-* **Joo, Won-tak**, Felix Elwert and Martin Munk. “Labor Market Consequences of Grandparenthood.”
+* **Joo, Won-tak**, Felix Elwert and Martin Munk. “Labor Market Consequences of Grandparenthood.” [(abstract)]
 
-* **Joo, Won-tak**, Michal Engelman and Jason Fletcher. “Changes in Social Networks after Retirement: Comparison of the USA and European Countries.”
+* **Joo, Won-tak**, Michal Engelman and Jason Fletcher. “Changes in Social Networks after Retirement.” [(abstract)]
 
-* **Joo, Won-tak**, Michal Engelman, Alberto Palloni, and Jason Fletcher. “Longevity and In Utero Exposure to the Influenza Pandemics in the 19th century.”
+* **Joo, Won-tak**, Michal Engelman, Alberto Palloni, and Jason Fletcher. “Longevity and In Utero Exposure to the Influenza Pandemics in the 19th century.” [(abstract)]
 
-* **Joo, Won-tak**. “Compulsory Schooling Reforms and Social Connectedness.”
+* **Joo, Won-tak**. “Compulsory Schooling Reforms and Social Connectedness.” [(abstract)]
 
-* **Joo, Won-tak** and Jason Fletcher. “The Rise and Fall of Patrilineage in Korea 1400-1940.”
+* **Joo, Won-tak** and Jason Fletcher. “The Rise and Fall of Patrilineage in Korea 1400-1940.” [(abstract)]
