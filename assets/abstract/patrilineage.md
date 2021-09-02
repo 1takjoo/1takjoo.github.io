@@ -2,6 +2,6 @@
 **(August 2020)**
 <br> In this study, we aim to answer three questions using extensive information about genealogies during 1400-1940 from 8 clan books in Korea. First, does the social prestige of ancestors affect the expansion and survival of patrilineage? Second, does the ancestry matter for all descendants or only selected groups? Third, is there any change in prestige effects when there is a disruption in the governmental system? According to the results, patrilineages from prestigious ancestry were more likely to survive across 10 generations for about 300 years, whereas prestige has little impact on the size and growth of patrilineage. Further analyses show that the prestige selectively matters, especially for the eldest sons’ lineage. As for time trends of prestige effects, we observe that there was a steep decrease in advantage when Joseon Dynasty was going through governmental disorders in the early 1600s and the late 1800s. The results implicate that the linkage between family formation strategy and macro social changes is a key to explaining patrilineage survival in pre-industrial periods.
 
-<img src="/assets/abstract/patrilineage_fig1.png" width="250" height="200">
+<img src="/assets/abstract/patrilineage_fig1.png" width="500">
 
 ![fig2](/assets/abstract/patrilineage_fig2.png)
