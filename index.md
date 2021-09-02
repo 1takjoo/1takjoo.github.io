@@ -36,12 +36,12 @@ Equal contribution*
 
 * **Joo, Won-tak**. “The Educational Gradient in Social Network Activation: The Case of Disease Diagnosis among Older Adults.” (_Under Review_) [(abstract)]
 
-* **Joo, Won-tak**, Felix Elwert and Martin Munk. “Labor Market Consequences of Grandparenthood.” [(abstract)]
+* **Joo, Won-tak**, Felix Elwert and Martin Munk. “Labor Market Consequences of Grandparenthood.” [(abstract)](/assets/abstract/grandparenthood.md)
 
-* **Joo, Won-tak**, Michal Engelman and Jason Fletcher. “Changes in Social Networks after Retirement.” [(abstract)]
+* **Joo, Won-tak**, Michal Engelman and Jason Fletcher. “Changes in Social Networks after Retirement.” [(abstract)](/assets/abstract/netretire.md)
 
-* **Joo, Won-tak**, Michal Engelman, Alberto Palloni, and Jason Fletcher. “Longevity and In Utero Exposure to the Influenza Pandemics in the 19th century.” [(abstract)]
+* **Joo, Won-tak**, Michal Engelman, Alberto Palloni, and Jason Fletcher. “Longevity and In Utero Exposure to the Influenza Pandemics in the 19th century.” [(abstract)](/assets/abstract/pandemic.md)
 
-* **Joo, Won-tak**. “Compulsory Schooling Reforms and Social Connectedness.” [(abstract)]
+* **Joo, Won-tak**. “Compulsory Schooling Reforms and Social Connectedness.” [(abstract)](/assets/abstract/schooling.md)
 
 * **Joo, Won-tak** and Jason Fletcher. “The Rise and Fall of Patrilineage in Korea 1400-1940.” [(abstract)](/assets/abstract/patrilineage.md)
