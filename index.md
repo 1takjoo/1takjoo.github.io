@@ -30,7 +30,7 @@ My current projects explore (1) the socioeconomic differences in social network 
 
 <br>
 
-## Working Papers <span style="font-size:smaller;">word</span>
+## Working Papers <span style="font-size:10;">word</span>
 ***(manuscript available upon request)***
 <br>
 +Equal contribution
