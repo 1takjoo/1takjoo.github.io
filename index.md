@@ -31,7 +31,7 @@ My current projects explore (1) the socioeconomic differences in social network 
 <br>
 
 ## Working Papers
-### (manuscript available upon request)
+***(manuscript available upon request)***
 +Equal contribution
 * Engelman, Michal+, **Won-tak Joo**+, Jason Fletcher and Barry Burden. “Health, Wealth, and Voting Trajectories in Later Life.” (_Revise and Resubmit_ at _The Journals of Gerontology: Series B_) [(abstract)](/assets/abstract/wlsvoting.md)
 
