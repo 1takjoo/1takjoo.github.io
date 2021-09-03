@@ -7,9 +7,9 @@ This study aims to assess the lifelong effects of educational expansion on socia
 <br>
 ![fig1](/assets/abstract/schooling_fig1.png)
 <br>
-_"In the model with a time window of 7 years (i.e., 7 years before and after the pivotal cohorts), a one-year increase in compulsory schooling years leads to a 0.33 increase in observed schooling years on average. The F statistic is 26, substantially higher than the rule-of-thumb threshold for a strong first stage."_
+_"In the model with a time window of 7 years (i.e., 7 years before and after the pivotal cohorts), a one-year increase in compulsory schooling years leads to a 0.33 increase in the observed schooling years on average. The F statistic is 26, substantially higher than the rule-of-thumb threshold for a strong first stage."_
 <br>
 <br>
 ![fig2](/assets/abstract/schooling_fig2.svg)
 <br>
-_"I adopt a random permutation test where I randomly re-assign the exposure to reforms among the respondents from the same country and interview year and re-estimate the first stage and reduced form regression. As shown in the figure, the baseline estimates — (i) the positive impact of compulsory schooling years on observed schooling years, and the negative impact of schooling years on (ii) total network size, (iii) neighbor network size, (iv) maintained network size during two survey waves — are far away from the distribution of estimates from the placebo reforms, suggesting that the observed effects of compulsory schooling reforms may not arise by chance."_
+_"I adopt random permutation tests where I randomly re-assign the exposure to the reforms within the same country and survey year and re-estimate the first stage and reduced-form regression. As shown in the figure, the baseline estimates — (i) the positive impact of compulsory schooling years on the observed schooling years, and the negative impact of compulsory chooling years on (ii) total network size, (iii) neighbor network size, and (iv) maintained network size during two survey waves — fall in the 0.001 tails of the placebo-reform distribution, suggesting that the observed effects of the compulsory schooling reforms may not have arisen by chance."_
