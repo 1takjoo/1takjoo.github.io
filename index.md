@@ -46,4 +46,3 @@ My current projects explore (1) the socioeconomic differences in social network 
 * **Joo, Won-tak**. “Compulsory Schooling Reforms and Social Connectedness.” [(abstract)](/assets/abstract/schooling.md)
 
 * **Joo, Won-tak** and Jason Fletcher. “The Rise and Fall of Patrilineage in Korea 1400-1940.” [(abstract)](/assets/abstract/patrilineage.md)
-33
