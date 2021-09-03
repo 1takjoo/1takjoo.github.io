@@ -1,4 +1,4 @@
-#### The Educational Gradient in Social Network Activation: The Case of Disease Diagnosis in Later Life
+### The Educational Gradient in Social Network Activation: The Case of Disease Diagnosis in Later Life
 **(June 2021)**
 <br>
 <br>
