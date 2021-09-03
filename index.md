@@ -30,7 +30,7 @@ My current projects explore (1) the socioeconomic differences in social network 
 
 <br>
 
-## Working Papers <span style="font-size:10px;">(manuscript available upon request)</span>
+## Working Papers <span style="font-size:10px;">#### (manuscript available upon request)</span>
 +Equal contribution
 
 * Engelman, Michal+, **Won-tak Joo**+, Jason Fletcher and Barry Burden. “Health, Wealth, and Voting Trajectories in Later Life.” (_Revise and Resubmit_ at _The Journals of Gerontology: Series B_) [(abstract)](/assets/abstract/wlsvoting.md)
@@ -46,3 +46,4 @@ My current projects explore (1) the socioeconomic differences in social network 
 * **Joo, Won-tak**. “Compulsory Schooling Reforms and Social Connectedness.” [(abstract)](/assets/abstract/schooling.md)
 
 * **Joo, Won-tak** and Jason Fletcher. “The Rise and Fall of Patrilineage in Korea 1400-1940.” [(abstract)](/assets/abstract/patrilineage.md)
+33
