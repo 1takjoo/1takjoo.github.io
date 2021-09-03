@@ -25,9 +25,9 @@ individuals to consistently participate in elections.
 <br>
 ![fig1](/assets/abstract/wlsvoting_fig1.svg)
 <br>
-_"Among those without a high school degree, the probability of losing ties with a high expectation of health discussion was about 0.5 and changed little by comorbidity index, whereas the probability for low health discussion networks increased from 0.5 to over 0.9 with the increase of comorbidity index from 0 to 3. On the contrary, the college-educated had stable probabilities of loss even at disease diagnosis, while the average likelihood of loss was lower for ties with a high level of health discussion (0.4) than those with a middle (0.5) or low health discussion (0.6)."_
+_"Notably, the majority of older adults in the WLS voted consistently–mostly at polls–throughout the study period. The transitions in voting status, if any, occur from polling-place votes to alternative voting or early deaths, whereas a gradual transition from voting to not voting was not identified as a typical trajectory. These findings suggest that older habitual voters rarely stop voting before their deaths, and actively adopt flexible voting methods for continuing their voting habits."_
 <br>
 <br>
 ![fig2](/assets/abstract/wlsvoting_fig2.svg)
 <br>
-_"Tie additions among those without a high school degree were strongly conditional on the level of health discussion: there was a slight increase in the probability of adding high health discussion ties from 0.5 to 0.6 with an increase in comorbidity index from 0 to 3, whereas the probability decreased from 0.8 to 0.3 when the likelihood of health discussion was low. Among the college graduates, network ties with a lower expectation of health discussion had a higher probability of being added on average, while this gap by health discussion got slightly wider with more diagnosed diseases."_
+_"The figure presents the marginal effects of health and wealth with other covariates at means: one standard deviation increase in health leads to 0.26 more votes with any method, 0.16 more polling-place votes, and 0.18 less absentee votes at the 10th wealth percentile; at the 90th wealth percentile, however, the impact of health is near zero for all dimensions."_
