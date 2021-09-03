@@ -28,6 +28,6 @@ individuals to consistently participate in elections.
 _"Among those without a high school degree, the probability of losing ties with a high expectation of health discussion was about 0.5 and changed little by comorbidity index, whereas the probability for low health discussion networks increased from 0.5 to over 0.9 with the increase of comorbidity index from 0 to 3. On the contrary, the college-educated had stable probabilities of loss even at disease diagnosis, while the average likelihood of loss was lower for ties with a high level of health discussion (0.4) than those with a middle (0.5) or low health discussion (0.6)."_
 <br>
 <br>
-![fig2](/assets/abstract/wlsvoting_fig2.jpg)
+![fig2](/assets/abstract/wlsvoting_fig2.svg)
 <br>
 _"Tie additions among those without a high school degree were strongly conditional on the level of health discussion: there was a slight increase in the probability of adding high health discussion ties from 0.5 to 0.6 with an increase in comorbidity index from 0 to 3, whereas the probability decreased from 0.8 to 0.3 when the likelihood of health discussion was low. Among the college graduates, network ties with a lower expectation of health discussion had a higher probability of being added on average, while this gap by health discussion got slightly wider with more diagnosed diseases."_
