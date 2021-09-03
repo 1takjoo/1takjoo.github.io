@@ -32,9 +32,9 @@ My current projects explore (1) the socioeconomic differences in social network 
 
 ## Working Papers
 +Equal contribution
-* Engelman, Michal+, **Won-tak Joo**+, Jason Fletcher and Barry Burden. “Health, Wealth, and Voting Trajectories in Later Life.” (_Revise and Resubmit_ at _The Journals of Gerontology: Series B_)
+* Engelman, Michal+, **Won-tak Joo**+, Jason Fletcher and Barry Burden. “Health, Wealth, and Voting Trajectories in Later Life.” (_Revise and Resubmit_ at _The Journals of Gerontology: Series B_) [(abstract)](/assets/abstract/wlsvoting.md)
 
-* **Joo, Won-tak**. “The Educational Gradient in Social Network Activation: The Case of Disease Diagnosis among Older Adults.” (_Under Review_)
+* **Joo, Won-tak**. “The Educational Gradient in Social Network Activation: The Case of Disease Diagnosis among Older Adults.” (_Under Review_) [(abstract)](/assets/abstract/netact.md)
 
 * **Joo, Won-tak**, Felix Elwert and Martin Munk. “Labor Market Consequences of Grandparenthood.” [(abstract)](/assets/abstract/grandparenthood.md)
 
