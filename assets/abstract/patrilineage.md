@@ -7,5 +7,9 @@ In this study, we aim to answer three questions using extensive information abou
 <br>
 ![fig1](/assets/abstract/patrilineage_fig1.png)
 <br>
+_"As shown in the figure, prestigious main lines (i.e., founders were the eldest sons and held formal governmental positions in the Joseon dynasty) were 3 times more likely to continue across 10 generations, comparing with partrilineages from later-born sons with no prestigious position held."_
+<br>
 <br>
 ![fig2](/assets/abstract/patrilineage_fig2.png)
+<br>
+_"The figure shows a steep decrease in prestige effects on the patrilineage continuation early in the 1600s and late in the 1800s, which corresponds to governmental disorders due to the defeat in the war with the Qing Dynasty in 1637 and the start of Japanese colonial rule in 1897. These patterns suggest that prestigious families could take advantage of their social power only when the governmental system stayed stable."_
