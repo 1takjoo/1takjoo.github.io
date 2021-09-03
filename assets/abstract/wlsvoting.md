@@ -25,7 +25,7 @@ individuals to consistently participate in elections.
 <br>
 ![fig1](/assets/abstract/wlsvoting_fig1.svg)
 <br>
-_"Notably, the majority of older adults in the WLS voted consistently–mostly at polls–throughout the study period. The transitions in voting status, if any, occur from polling-place votes to alternative voting or early deaths, whereas a gradual transition from voting to not voting was not identified as a typical trajectory. These findings suggest that older habitual voters rarely stop voting before their deaths, and actively adopt flexible voting methods for continuing their voting habits."_
+_"Notably, the majority of older adults in the WLS voted consistently—mostly at polls—throughout the study period. The transitions in voting status, if any, occur from polling-place votes to alternative voting or early deaths, whereas a gradual transition from voting to not voting was not identified as a typical trajectory. These findings suggest that older habitual voters rarely stop voting before their deaths, and actively adopt flexible voting methods for continuing their voting habits."_
 <br>
 <br>
 ![fig2](/assets/abstract/wlsvoting_fig2.svg)
