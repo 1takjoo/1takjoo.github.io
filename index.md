@@ -17,7 +17,7 @@ My current projects explore (1) the socioeconomic differences in social network 
 * **Joo, Won-tak** and Jason Fletcher. “Out of Sync, Out of Society: Political Beliefs and Social Networks.” _Network Science_ 8(3):445-468. [(link)](https://doi.org/10.1017/nws.2020.2)
 
 ### 2018
-* **Joo, Won-tak**, Chan Joo Lee, Jaewon Oh, In-cheol Kim, Sang-hak Lee, Seok-min Kang, Hyeon Chang Kim, Sungha Park, and Yoosik Youm. “The Association between Social Network Betweenness and Coronary Calcification: A Baseline Study on Patients with a High Risk of Cardiovascular Disease.” _Journal of Atherosclerosis and Thrombosis_ 25(2):131-141. [(link)](https://doi.org/10.5551/jat.40469)
+* **Joo, Won-tak**<sup>*</sup>, Chan Joo Lee<sup>*</sup>, Jaewon Oh, In-cheol Kim, Sang-hak Lee, Seok-min Kang, Hyeon Chang Kim, Sungha Park, and Yoosik Youm. “The Association between Social Network Betweenness and Coronary Calcification: A Baseline Study on Patients with a High Risk of Cardiovascular Disease.” _Journal of Atherosclerosis and Thrombosis_ 25(2):131-141. [(link)](https://doi.org/10.5551/jat.40469)
 
 * Kwak, Seyul, **Won-tak Joo**, Yoosik Youm, and Jeanyung Chey. “Social Brain Volume is Associated with In-degree Social Network Size among Older Adults.” _Proceedings of the Royal Society B_ 285:20172708. [(link)](https://doi.org/10.1098/rspb.2017.2708)
 
