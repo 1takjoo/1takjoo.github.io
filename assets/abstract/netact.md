@@ -1,5 +1,5 @@
-### The Educational Gradient in Social Network Activation: The Case of Disease Diagnosis in Later Life
-**(June 2021)**
+### The Educational Gradient in Social Network Changes at Disease Diagnosis
+**(October 2021)**
 <br>
 <br>
 This study examines changes in health discussion networks at the diagnosis of chronic diseases using a representative sample of the US older population. Results show heterogeneous patterns across levels of education. Older adults with low education lost networks with little health discussion but recruited new members that possibly provided richer health discussion than the existing ones. Those with higher education, on the other hand, promoted health discussion with the maintained networks instead of changing social network members. As a result, the total amount of health discussion decreased more for those with no high school degree. These findings suggest that unsteady activation—high fluctuation in social networks but weak activation of health discussion—can be one mechanism of health disparities in later life. The results also imply that individual actions are embedded in the course of building and dissolving networks in reaction to critical situations.
