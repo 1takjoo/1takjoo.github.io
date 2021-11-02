@@ -1,4 +1,4 @@
-## Biography [(CV)](/assets/pdf/CV_2021_10_25.pdf)
+## Biography [(CV)](/assets/pdf/CV.pdf)
 I am Won-tak Joo, a PhD candidate in Sociology at the University of Wisconsin–Madison.
 
 My research interests are in the areas of social demography (focusing on aging, health, and family), social networks, and computational sociology. Specifically, I study how social and family relationships change across the life course, and how these patterns contribute to social and health inequalities, using a range of quantitative approaches including social network methods, applied econometrics, and demographic techniques.
