@@ -1,8 +1,8 @@
 ### The Educational Gradient in Social Network Changes at Disease Diagnosis
-**(October 2021)**
+**(December 2021)**
 <br>
 <br>
-This study examines changes in health discussion networks at the diagnosis of chronic diseases using a representative sample of the US older population. Results show heterogeneous patterns across levels of education. Older adults with low education lost networks with little health discussion but recruited new members that possibly provided richer health discussion than the existing ones. Those with higher education, on the other hand, promoted health discussion with the maintained networks instead of changing social network members. As a result, the total amount of health discussion decreased more for those with no high school degree. These findings suggest that unsteady activation—high fluctuation in social networks but weak activation of health discussion—can be one mechanism of health disparities in later life. The results also imply that individual actions are embedded in the course of building and dissolving networks in reaction to critical situations.
+This study examines the educational gradient in social network changes following the diagnosis of chronic diseases. Using a representative sample of the US older population, I show that social network size and amount of health-related discussion with social network members increased only for older adults with a bachelor’s degree. This finding is robust to multiple sample section scenarios. The educational gradient arises primarily in the context of degenerative disease diagnoses, but not changes in functional limitations or other health dimensions. Tie-level analyses reveal that the increase in health discussion for highly educated older adults is not due to structural changes in social networks, but rather the activation of health discussion among existing social network members. These results suggest that heterogeneous temporal dynamics in social networks may be one mechanism that shapes diverging health trajectories in later life.
 <br>
 <br>
 ![fig1](/assets/abstract/netact_fig1.jpg)
@@ -12,9 +12,4 @@ _"Among those without a high school degree, the probability of losing ties with 
 <br>
 ![fig2](/assets/abstract/netact_fig2.jpg)
 <br>
-_"Tie additions among those without a high school degree were strongly conditional on the level of health discussion: there was a slight increase in the probability of adding high health discussion ties from 0.5 to 0.6 with an increase in comorbidity index from 0 to 3, whereas the probability decreased from 0.8 to 0.3 when the likelihood of health discussion was low. Among the college graduates, network ties with a lower expectation of health discussion had a higher probability of being added on average, while this gap by health discussion got slightly wider with more diagnosed diseases."_
-<br>
-<br>
-![fig3](/assets/abstract/netact_fig3.jpg)
-<br>
-_"Educational differences were marked when the baseline expectation of health discussion was low: among those without a high school degree, health discussion at Wave 2 decreased from 0.6 to 0.3 with an increase in comorbidity index from 0 to 3, whereas the college-educated increased the level of health discussion from 0.6 to 0.8 in the same setting."_
+_"According to the results, the higher educated were more likely to increase health discussion, especially with those whose baseline expectation for health discussion was low. The figure illustrates predicted probabilities of high health discussion at Wave 2, showing that only bachelor’s degree holders experienced an increase in health discussion by activating low health discussion ties at baseline."_
