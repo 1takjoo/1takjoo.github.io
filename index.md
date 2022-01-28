@@ -1,9 +1,9 @@
 ## Biography [(CV)](/assets/pdf/CV.pdf)
-I am Won-tak Joo, a PhD candidate in Sociology at the University of Wisconsin–Madison.
+I am Won-tak Joo, a postdoctoral fellow in Demography at the University of California, Berkeley.
 
-My research interests are in the areas of social demography (focusing on aging, health, and family), social networks, and computational sociology. Specifically, I study how social and family relationships change across the life course, and how these patterns contribute to social and health inequalities, using a range of quantitative approaches including social network methods, applied econometrics, and demographic techniques.
+My research interests are in the areas of social demography, social networks, and computational sociology. Specifically, I study how social and family relationships change across the life course, and how these patterns contribute to social and health inequalities, using a range of quantitative approaches including social network methods, applied econometrics, and demographic techniques.
 
-My current projects explore (1) the socioeconomic differences in social network changes during later life transitions (e.g., disease diagnosis, retirement), and (2) the individual and family consequences of epidemics using large genealogy datasets.
+My current projects explore (1) the socioeconomic differences in social network changes during later life transitions (e.g., disease diagnosis, retirement), and (2) the individual and family consequences of epidemics using large genealogy and census datasets.
 
 <br>
 
