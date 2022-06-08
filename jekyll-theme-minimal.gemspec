@@ -1,4 +1,4 @@
-spec.required_ruby_version = '>= 2.3.0'
+# required_ruby_version = '>= 2.3.0'
 # frozen_string_literal: true
 
 Gem::Specification.new do |s|
