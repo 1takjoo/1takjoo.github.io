@@ -1,5 +1,5 @@
 ## Biography [(CV)](/assets/pdf/CV.pdf)
-I am Won-tak Joo, a postdoctoral fellow in Demography at the University of California, Berkeley. I received my PhD in Sociology from the University of Wisconsin-Madison.
+I am Won-tak Joo, a postdoctoral fellow in Demography at the University of California, Berkeley, and joining the Department of Sociology and Criminology & Law at the University of Florida in January 2023. I received my PhD in Sociology from the University of Wisconsin-Madison.
 
 My research interests are in the areas of social demography, social networks, and computational sociology. Specifically, I study how social and family relationships change across the life course, and how these patterns contribute to social and health inequalities, using a range of quantitative approaches including social network methods, applied econometrics, and demographic techniques.
 
@@ -8,15 +8,14 @@ My current projects explore (1) the socioeconomic differences in social network 
 <br>
 
 ## Publications
-##### (<sup>*</sup>Equal contribution)
-### Forthcoming
-* Engelman, Michal<sup>*</sup>, **Won-tak Joo**<sup>*</sup>, Jason Fletcher and Barry Burden. “Health, Wealth, and Voting Trajectories in Later Life.” _The Journals of Gerontology: Series B_. [(link)](https://doi.org/10.1093/geronb/gbab191)
+### 2022
+* Engelman, Michal, **Won-tak Joo**, Jason Fletcher and Barry Burden. “Health, Wealth, and Voting Trajectories in Later Life.” _The Journals of Gerontology: Series B_ 77(4):827-837. [(link)](https://doi.org/10.1093/geronb/gbab191)
 
 ### 2020
 * **Joo, Won-tak** and Jason Fletcher. “Out of Sync, Out of Society: Political Beliefs and Social Networks.” _Network Science_ 8(3):445-468. [(link)](https://doi.org/10.1017/nws.2020.2)
 
 ### 2018
-* **Joo, Won-tak**<sup>*</sup>, Chan Joo Lee<sup>*</sup>, Jaewon Oh, In-cheol Kim, Sang-hak Lee, Seok-min Kang, Hyeon Chang Kim, Sungha Park, and Yoosik Youm. “The Association between Social Network Betweenness and Coronary Calcification: A Baseline Study on Patients with a High Risk of Cardiovascular Disease.” _Journal of Atherosclerosis and Thrombosis_ 25(2):131-141. [(link)](https://doi.org/10.5551/jat.40469)
+* **Joo, Won-tak**, Chan Joo Lee, Jaewon Oh, In-cheol Kim, Sang-hak Lee, Seok-min Kang, Hyeon Chang Kim, Sungha Park, and Yoosik Youm. “The Association between Social Network Betweenness and Coronary Calcification: A Baseline Study on Patients with a High Risk of Cardiovascular Disease.” _Journal of Atherosclerosis and Thrombosis_ 25(2):131-141. [(link)](https://doi.org/10.5551/jat.40469)
 
 * Kwak, Seyul, **Won-tak Joo**, Yoosik Youm, and Jeanyung Chey. “Social Brain Volume is Associated with In-degree Social Network Size among Older Adults.” _Proceedings of the Royal Society B_ 285:20172708. [(link)](https://doi.org/10.1098/rspb.2017.2708)
 
@@ -38,8 +37,6 @@ My current projects explore (1) the socioeconomic differences in social network 
 * **Joo, Won-tak**. “The Educational Gradient in Social Network Changes at Disease Diagnosis.” [(abstract)](/assets/abstract/netact.md)
 
 * **Joo, Won-tak**, Michal Engelman and Jason Fletcher. “Changes in Social Networks after Retirement.” [(abstract)](/assets/abstract/netretire.md)
-
-* **Joo, Won-tak**. “Social Networks and Socioeconomic Differences in Mental Health Consequences of COVID-19.” [(abstract)](/assets/abstract/covidhealth.md)
 
 * **Joo, Won-tak**, Michal Engelman, Alberto Palloni, and Jason Fletcher. “Longevity and In Utero Exposure to the Influenza Pandemics in the 19th century.” [(abstract)](/assets/abstract/pandemic.md)
 
