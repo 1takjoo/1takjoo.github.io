@@ -1,6 +1,5 @@
 ### The Educational Gradient in Social Network Changes at Disease Diagnosis
 <br>
-<br>
 This study examines the educational gradient in social network changes following the diagnosis of chronic diseases. Using a representative sample of the US older population, I show that social network size and amount of health-related discussion with social network members increased only for older adults with a bachelor’s degree. This finding is robust to multiple sample section scenarios. The educational gradient arises primarily in the context of degenerative disease diagnoses, but not changes in functional limitations or other health dimensions. Tie-level analyses reveal that the increase in health discussion for highly educated older adults is not due to structural changes in social networks, but rather the activation of health discussion among existing social network members. These results suggest that heterogeneous temporal dynamics in social networks may be one mechanism that shapes diverging health trajectories in later life.
 <br>
 <br>
