@@ -1,3 +1,4 @@
+spec.required_ruby_version = '>= 2.3.0'
 # frozen_string_literal: true
 
 Gem::Specification.new do |s|
@@ -8,7 +9,6 @@ Gem::Specification.new do |s|
   s.email         = ['opensource+jekyll-theme-minimal@github.com']
   s.homepage      = 'https://github.com/pages-themes/minimal'
   s.summary       = 'Minimal is a Jekyll theme for GitHub Pages'
-  s.required_ruby_version = '>= 2.3.0'
 
   s.files         = `git ls-files -z`.split("\x0").select do |f|
     f.match(%r{^((_includes|_layouts|_sass|assets)/|(LICENSE|README)((\.(txt|md|markdown)|$)))}i)
