@@ -1,5 +1,4 @@
 ### Changes in Social Networks after Retirement
-**(December 2021)**
 <br>
 <br>
 Retirement makes significant changes in social and family environments, whereas few studies investigated its consequences for social networks in later life. This study aims to estimate the impact of retirement on networks of people with whom older adults discuss important matters. We use nationally representative data from the US and 14 European Countries, exploiting variation in pension policies across these contexts. We find clear gender differences, as male retirees are more likely to discuss important matters with kin—especially non-resident children—after retirement. Older women maintain large networks with both non-kin and kin regardless of retirement status. Socioeconomic differences in post-retirement network reorganization were more pronounced for older men: those with higher education and more assets had more active interactions with kin members, while the risk of social isolation was more pronounced for older men with lower socioeconomic status.
