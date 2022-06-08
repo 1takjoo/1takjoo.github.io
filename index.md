@@ -1,5 +1,5 @@
 ## Biography [(CV)](/assets/pdf/CV.pdf)
-I am Won-tak Joo, a postdoctoral fellow in Demography at the University of California, Berkeley, and joining the Department of Sociology and Criminology & Law at the University of Florida in January 2023. I received my PhD in Sociology from the University of Wisconsin-Madison.
+I am Won-tak Joo, a postdoctoral fellow in Demography at the University of California, Berkeley. I received my PhD in Sociology from the University of Wisconsin-Madison. I am joining the Department of Sociology and Criminology & Law at the University of Florida as an assistant professor in January 2023.
 
 My research interests are in the areas of social demography, social networks, and computational sociology. Specifically, I study how social and family relationships change across the life course, and how these patterns contribute to social and health inequalities, using a range of quantitative approaches including social network methods, applied econometrics, and demographic techniques.
 
