@@ -1,4 +1,4 @@
-## Biography [(CV)](/assets/pdf/CV.pdf)
+## Biography [(CV)](/assets/CV.pdf)
 I am Won-tak Joo, an assistant professor in Sociology and Criminology & Law at the University of Florida.
 
 My research interests are in the areas of social demography, social networks, and computational sociology. Specifically, I study how social and family relationships change across the life course, and how these patterns contribute to social and health inequalities, using a range of quantitative approaches including social network methods, applied econometrics, and demographic techniques.
