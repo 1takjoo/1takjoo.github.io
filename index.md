@@ -9,7 +9,7 @@ My current projects explore (1) the socioeconomic differences in social network 
 
 ## Publications
 ### 2023
-* **Joo, Won-tak**. “The Educational Gradient in Social Network Changes at Disease Diagnosis.” _Social Science & Medicine_ 317:115626. [(link)](https://doi.org/10.1016/j.socscimed.2022.115626)
+* **Joo, Won-tak**. “Educational Gradient in Social Network Changes at Disease Diagnosis.” _Social Science & Medicine_ 317:115626. [(link)](https://doi.org/10.1016/j.socscimed.2022.115626)
 
 ### 2022
 * Engelman, Michal, **Won-tak Joo**, Jason Fletcher and Barry Burden. “Health, Wealth, and Voting Trajectories in Later Life.” _The Journals of Gerontology: Series B_ 77(4):827-837. [(link)](https://doi.org/10.1093/geronb/gbab191)
