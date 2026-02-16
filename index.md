@@ -8,6 +8,14 @@ My current projects explore (1) the socioeconomic differences in social network 
 <br>
 
 ## Publications
+### 2025
+* Lee, Hyunju, **Won-tak Joo**, Joseph Dennis, and Sangkuk Lee. “Centralized Power, Decentralized Ambitions: The Reconfiguration of Local Power during the Transition from Goryeo to Joseon Korea.” _The History of the Family_ 30(3):519-541. [(link)](https://doi.org/10.1080/1081602X.2025.2496216)
+
+* Fletcher, Jason, Michael Topping, and **Won-tak Joo**. “Trends in the Female Longevity Advantage of 19th-Century Birth Cohorts: Exploring the Role of Place and Fertility.” _Social Science History_ 49(2):422-443. [(link)](https://doi.org/10.1017/ssh.2025.24)
+
+### 2024
+* **Joo, Won-tak**, Felix Elwert, and Martin D. Munk. “Labor Market Consequences of Grandparenthood.” _Sociological Science_ 11:600-625. [(link)](https://doi.org/10.15195/v11.a22)
+
 ### 2023
 * **Joo, Won-tak**. “Educational Gradient in Social Network Changes at Disease Diagnosis.” _Social Science & Medicine_ 317:115626. [(link)](https://doi.org/10.1016/j.socscimed.2022.115626)
 
